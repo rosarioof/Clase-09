@@ -80,7 +80,7 @@ blockquote {
 blockquote p {
     margin: 0 0 .5rem 0;
     padding: 0;
-    font-family: Times, 'Times New Roman', serif;
+    font-family: Roboto, 'Roboto Condensed', sans-serif;
     font-style: italic;
     font-weight: 200;
     font-size: 125%;
